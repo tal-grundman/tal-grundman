@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on my MSc in neuroscience at the Weizmann Institute of Science.
+
 <!--
 **tal-grundman/tal-grundman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
